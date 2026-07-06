@@ -48,6 +48,20 @@ principles:
 - **Corporations are the adversary, never peoples.** Criticize foreign
   corporations hard; celebrate the workers of Western Europe and their
   victories as the standard Romanians deserve too.
+- **Win the sovereigntist working class without losing anyone else.** The
+  strategic challenge is to win over part of the working-class electorate
+  that currently votes "sovereigntist"/far-right, without alienating either
+  progressive leftists or centrist liberals. Make the positive case for each
+  policy on its merits and its legal pedigree; never add defensive
+  disclaimers distancing the movement from authoritarian figures (Orbán and
+  the like) just because they once used a similar instrument. That
+  throat-clearing persuades no one, reads as tribal signaling to the very
+  voters we need to win, and concedes the frame that the policy is suspect.
+- **Entrepreneurs are allies.** Small businesses, the self-employed and
+  people who build things are part of the "many", not the adversary. Be
+  vocal about supporting entrepreneurship and cutting bureaucracy, anchored
+  as always in European policy that already works; reserve hostility for
+  corporate extraction, never for people who start businesses.
 - **Decentralist socialism, not state socialism.** Romanians carry the
   trauma of top-down, centralized state "socialism", and the documents must
   never evoke it. Favor the bottom-up, self-managed tradition: cooperatives,
