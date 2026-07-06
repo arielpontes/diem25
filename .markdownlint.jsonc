@@ -1,0 +1,15 @@
+{
+  // These files are reference documents downloaded verbatim and converted from
+  // HTML, so a few default rules are turned off to keep the source text intact.
+  "MD013": false, // line-length: prose paragraphs are not hard-wrapped
+  "MD026": false, // trailing punctuation in headings: source uses sentence headings
+  "MD036": false, // emphasis used as heading: source uses bold lead-ins
+  "MD041": false, // first line H1: files start with a source-URL comment + H2
+  "MD059": false, // descriptive link text: source uses bare "here" links verbatim
+  "MD046": false, // code block style: matches the global VSCode setting
+  "MD033": false, // inline HTML: PDF conversion emits <u> for underlined text
+  "MD025": false, // single H1: PDFs use multiple top-level section headings
+  "MD001": false, // heading increment: PDF heading levels jump (H1 to H3)
+  "MD030": false, // list marker spaces: PDF conversion emits double spaces
+  "MD034": false  // bare URLs: source prints plain URLs (e.g. www.diem25.org)
+}
