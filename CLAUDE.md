@@ -15,17 +15,19 @@ written as if read by friends and opponents alike.
 
 ## Layout
 
-- `romania/` — documents for DiEM25 Romania, including the draft vision
-  documents in `romania/vision/` (see principles below).
+- `romania/` — documents for DiEM25 Romania: the draft vision documents in
+  `romania/vision/` and local documents such as `romania/bucharest.md` (see
+  principles below).
 - `international/` — reference documents: markdown files converted from
   diem25.org pages (each starts with a `<!-- Source: URL -->` comment) and
   from PDFs (converted with the script below).
 - `scripts/` — utility scripts.
 
-## Principles for the `romania/vision` documents
+## Principles for the `romania/` political documents
 
-When writing or editing files in `romania/vision/`, respect these
-principles:
+When writing or editing political documents anywhere under `romania/` —
+the vision documents in `romania/vision/` as well as local documents such
+as `romania/bucharest.md` — respect these principles:
 
 - **Follow the DiEM25 vision format.** A statement headline, a short intro
   that localizes the argument to Romania, bold-led vision bullets, then a
@@ -37,6 +39,11 @@ principles:
   from countries where workers have achieved more, and cite the actual law,
   directive or court ruling by name so readers can verify. Nothing should
   read as an experiment on Romania.
+- **Propose only what the office can do.** A document addressed to a level
+  of government (a city, a sector, the national level) anchors every
+  proposal in that level's actual legal competences, citing them — never
+  promising from city hall what only parliament can deliver. Where the
+  level in question lacks the power, say so and name the level that has it.
 - **Stay empirical.** Drop concrete facts and numbers regularly — the more
   striking the better — but only verifiable ones, double-checked before
   publishing, with the important caveats kept (e.g. income inequality is not
@@ -57,6 +64,11 @@ principles:
   the like) just because they once used a similar instrument. That
   throat-clearing persuades no one, reads as tribal signaling to the very
   voters we need to win, and concedes the frame that the policy is suspect.
+- **Public space is a commons.** Visual space, parks, lakeshores and
+  squares belong to everyone. Commerce is welcome in them as a competitively
+  tendered, revocable service to the people using the space (the kiosk
+  model), never as an enclosure that prices them out (the terrace model) —
+  and advertising must never colonize the view.
 - **Entrepreneurs are allies.** Small businesses, the self-employed and
   people who build things are part of the "many", not the adversary. Be
   vocal about supporting entrepreneurship and cutting bureaucracy, anchored
