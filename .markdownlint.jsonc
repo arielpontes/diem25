@@ -11,5 +11,9 @@
   "MD025": false, // single H1: PDFs use multiple top-level section headings
   "MD001": false, // heading increment: PDF heading levels jump (H1 to H3)
   "MD030": false, // list marker spaces: PDF conversion emits double spaces
-  "MD034": false  // bare URLs: source prints plain URLs (e.g. www.diem25.org)
+  "MD034": false, // bare URLs: source prints plain URLs (e.g. www.diem25.org)
+  "MD005": false, // inconsistent list indentation: PDF conversion output
+  "MD007": false, // list indentation: PDF conversion emits 3-space indents
+  "MD028": false, // blank line inside blockquote: PDF layout artifact
+  "MD029": false  // ordered list prefix: source numbering kept verbatim
 }
