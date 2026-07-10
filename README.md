@@ -12,14 +12,14 @@ context, and are edited and decided on by humans.
 
 ## The documents
 
-The six drafts live in [`romanian-vision/`](romanian-vision/):
+The six drafts live in [`romania/vision/`](romania/vision/):
 
-- [Economic vision](romanian-vision/economic-vision.md)
-- [Political vision](romanian-vision/political-vision.md)
-- [Cultural vision](romanian-vision/cultural-vision.md)
-- [Ecological vision](romanian-vision/ecological-vision.md)
-- [Technological vision](romanian-vision/technological-vision.md)
-- [Security vision](romanian-vision/security-vision.md)
+- [Economic vision](romania/vision/economic-vision.md)
+- [Political vision](romania/vision/political-vision.md)
+- [Cultural vision](romania/vision/cultural-vision.md)
+- [Ecological vision](romania/vision/ecological-vision.md)
+- [Technological vision](romania/vision/technological-vision.md)
+- [Security vision](romania/vision/security-vision.md)
 
 ## The approach
 
@@ -46,9 +46,10 @@ a Romanian translation will follow once the English versions stabilize.
 
 ## Repo contents
 
-- `romanian-vision/` — the six draft vision documents.
-- `downloads/` — reference material: DiEM25 website pages and PDFs converted
-  to markdown, plus the original PDFs.
+- `romania/` — the DiEM25 Romania drafts, including the six vision documents
+  in `romania/vision/`.
+- `international/` — reference material: DiEM25 website pages and PDFs
+  converted to markdown.
 - `scripts/` — tooling, including the PDF-to-markdown converter
   (`uv run scripts/pdf_to_md.py <file.pdf>`).
 

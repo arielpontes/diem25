@@ -15,16 +15,16 @@ written as if read by friends and opponents alike.
 
 ## Layout
 
-- `romanian-vision/` — draft vision documents for DiEM25 Romania (see
-  principles below).
-- `downloads/` — reference documents: markdown files converted from
+- `romania/` — documents for DiEM25 Romania, including the draft vision
+  documents in `romania/vision/` (see principles below).
+- `international/` — reference documents: markdown files converted from
   diem25.org pages (each starts with a `<!-- Source: URL -->` comment) and
-  from PDFs (converted with the script below), plus the original PDFs.
+  from PDFs (converted with the script below).
 - `scripts/` — utility scripts.
 
-## Principles for the `romanian-vision` documents
+## Principles for the `romania/vision` documents
 
-When writing or editing files in `romanian-vision/`, respect these
+When writing or editing files in `romania/vision/`, respect these
 principles:
 
 - **Follow the DiEM25 vision format.** A statement headline, a short intro
