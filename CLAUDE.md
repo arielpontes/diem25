@@ -35,10 +35,27 @@ as `romania/bucharest.md` — respect these principles:
 - **Concrete but high-level, and honest about it.** Name real policies, but
   leave detailed specifications to future democratic deliberation — and say
   so openly (each document carries a standard preamble to that effect).
+- **Match the document to the movement's stage.** Until DiEM25 Romania
+  democratically adopts proposals of its own, anything meant for
+  publication (like `romania/vision/summary.md`, written as a news
+  article for diem25.org/ro) presents a direction and its European
+  inspirations — "we are inspired by...", no "What we propose"
+  sections — while the full vision documents remain internal discussion
+  drafts. Frame the document's status positively, by what it is and what
+  comes next, never with disclaimers about what it is not: defensive
+  framing reads the same whether aimed at opponents or at anticipated
+  internal criticism.
 - **Anchor every proposal in policy that already works.** Take inspiration
   from countries where workers have achieved more, and cite the actual law,
   directive or court ruling by name so readers can verify. Nothing should
   read as an experiment on Romania.
+- **Cite laws through lay-readable links.** When a foreign law or policy
+  is named as inspiration, link its mention to an article from a
+  trustworthy general-audience source (Reuters, The Guardian, Euronews,
+  official EU or government press pages) that a lay reader can grasp in a
+  few paragraphs; fall back to official or academic sources only when no
+  such article exists. Before publishing, verify that every link loads
+  and actually covers the law it is attached to.
 - **Propose only what the office can do.** A document addressed to a level
   of government (a city, a sector, the national level) anchors every
   proposal in that level's actual legal competences, citing them — never
@@ -85,6 +102,33 @@ as `romania/bucharest.md` — respect these principles:
 - **Fight at both levels.** Pair national/local policies with EU-level
   floors that protect them: the local tax and the European floor reinforce
   each other.
+- **Lead with the four pillars.** The DiEM25 Romania elevator pitch is:
+  participatory democracy, tax justice, sustainable development, peace
+  through diplomacy. Published documents should be skimmable down to
+  exactly these four — title, subtitle and section headings carry the
+  pitch. On the fourth: "peace through diplomacy", not "non-alignment"
+  (which reads as naive to the Romanian public) and not bare "peace"
+  (which leaves hostile readers to fill in the method) — keep the word,
+  supply the method. Local documents carry their own pillar list in the
+  same style: clear, sober policy terms ("participatory democracy"), not
+  invented slogans, which read as salesy.
+- **Participatory democracy always comes first.** The movement's name is
+  Democracy in Europe Movement 2025 for a reason: participatory democracy
+  is priority number one at every level, national and local. In every
+  document it leads — first in the pillar list, first among the sections.
+- **Affordability is the master frame.** The central lesson of Zohran
+  Mamdani's New York campaign: name the cost of living as the defining
+  issue and make residents feel entitled to affordable essentials —
+  transport, housing, energy, heat. Lead with affordability throughout;
+  where a European city has already made an essential free (transport in
+  Tallinn or Luxembourg), say so plainly — "affordable" is the floor,
+  not the ceiling. But never force the frame onto an essential that is
+  not actually expensive locally: a complaint that doesn't match lived
+  experience reads as an imported cause. Prefer terms with genuine local
+  momentum behind them (e.g. "urban mobility", which speaks to Bucharest's
+  real bike activism, over "affordable transport", when transport is not
+  a local pain point) — each pillar term should pull its own part of the
+  coalition.
 - **Tone: confident, declarative, sober.** Address misconceptions as
   misconceptions ("Romania is often imagined as...") rather than as quoted
   strawmen ("to those who say..."). Be combative toward corporations and
